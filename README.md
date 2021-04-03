@@ -1,1 +1,1 @@
-# Cutting Stock Problem is an NP-hard problem. This repository contains the Optimization of CSP using genetic algoritm. Created a GUI application in Qt. This repository contains the code and executable file. Extract the zip file and and run CSPDesign.exe  .
+# Cutting Stock Problem is an NP-hard problem. This repository contains the Optimization of CSP using Genetic Algorithm. Created a GUI application in Qt. This repository contains the code and executable file. Extract the zip file(Application.zip) and run CSPDesign.exe  .
